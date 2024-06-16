@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prog5</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="counter_value">Counter Value</string>
+    <string name="counter_application">Counter Application</string>
+</resources>
